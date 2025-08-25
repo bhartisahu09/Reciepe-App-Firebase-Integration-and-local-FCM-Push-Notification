@@ -29,7 +29,7 @@ A complete **Flutter Indian Recipe App** featuring **authentic Indian recipes**,
 ## Installation
 1. Clone Repository
    ```bash
-   git clone https://github.com/bhartisahu09/Recipe_App_Firebase
+   git clone https://github.com/bhartisahu09/Reciepe-App-Firebase-Integration-and-local-FCM-Push-Notification
    cd recipe_app
    ```
 2. **Install dependencies**
